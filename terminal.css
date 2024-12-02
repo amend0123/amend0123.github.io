@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: lightgray;
+    font-family: Consolas;
+}
+
+pre {
+    font-size: 7.40px;
+    overflow: hidden;
+}
+
+hr {
+    border: none;
+    border-top: 1px dashed;
+}
+
+h2 {
+    font-size: 19px;
+}
+
+a {
+    color: cyan;
+    text-decoration: none;
+}
